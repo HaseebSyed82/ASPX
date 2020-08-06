@@ -1,0 +1,33 @@
+/***********************************
+Haseeb Syed
+CIS 2350
+CSS File
+ ***********************************/
+
+table.table1 {
+    width: 75%; 
+    border-width: 1px; 
+    border-spacing: 0px; 
+    border-style: outset; 
+    border-color: #cccccc; 
+    border-collapse: separate; 
+    background-color: #ffffff;
+}
+
+table.table1 > tr > td, table.table1 > tbody > tr > td  {
+    border-width: thin; 
+    padding: 20px; 
+    border-style: inset; 
+    border-color: #cccccc; 
+    background-color: #fcfaf7;
+}
+
+body {
+	font: 15px tahoma, geneva, sans-serif;
+	background-color: #E6E6FA;
+}
+
+select {
+	font: 15px arial,sans-serif;
+}
+

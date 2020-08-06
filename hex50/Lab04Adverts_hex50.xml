@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>./images/CarsBugatti.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Bugatti_Veyron</NavigateUrl>
+    <AlternateText>Bugatti</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>./images/CarsCorvette.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Corvette</NavigateUrl>
+    <AlternateText>Corvette</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>./images/CarsFerrari.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Ferrari</NavigateUrl>
+    <AlternateText>Ferrari</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>./images/CarsLamborghini.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Lamborghini</NavigateUrl>
+    <AlternateText>Lamborghini</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>./images/CarsMustang.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Ford_Mustang</NavigateUrl>
+    <AlternateText>Mustang</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>./images/CarsRangeRover.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Range_Rover_Evoque</NavigateUrl>
+    <AlternateText>RangeRover</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>./images/CarsRollsRoyce.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Rolls-Royce_Motor_Cars</NavigateUrl>
+    <AlternateText>RollsRoyce</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>./images/CarsVolkswagen.jpg</ImageUrl>
+    <NavigateUrl>https://en.wikipedia.org/wiki/Volkswagen</NavigateUrl>
+    <AlternateText>Volkswagen</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+</Advertisements>

@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="hex50_Project1_HaseebS.master.cs" Inherits="hex50_hex50_Project1_HaseebS" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head runat="server">
+        <title></title>
+         <link href="cis2350.css" rel="stylesheet" type="text/css" media="all" />
+        <style>
+            span.error {color:red; font:bold}
+            /*body {background-color:aquamarine}*/
+        </style>
+        <asp:ContentPlaceHolder id="cphHeader" runat="server">
+        </asp:ContentPlaceHolder>
+    </head>
+
+    <body>
+        <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder id="cphBody" runat="server">
+        
+            </asp:ContentPlaceHolder>
+            <br /><br />
+                <img src="http://www.thatlink.com/classes/images/html5-css3.jpg" alt="Validate" usemap="#ValidationMap" />
+                <map name="ValidationMap">
+	                <area shape="rect" coords="0,0,90,79" alt="XHTML5 Validation"
+		                href="http://www.thatlink.com/Classes/Public/Validate.aspx?type=xhtml5&amp;url=referrer" />
+	                <area shape="rect" coords="91,0,180,79" alt="CSS3 Validation"
+		                href="http://www.thatlink.com/Classes/Public/Validate.aspx?type=css3&amp;url=referrer" />
+                </map> 
+
+        </div>
+
+
+        </form>
+    </body>
+</html>
